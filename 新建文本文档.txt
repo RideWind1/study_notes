@@ -5,3 +5,21 @@ webbench的使用：https://blog.csdn.net/qq_29823093/article/details/86291462
 
 
 c++学习：https://github.com/chengxumiaodaren/cpp-learning
+
+华为收藏的地址：
+https://github.com/chankeh/cpp-backend-reference/blob/master/back-end.md
+https://github.com/zouxiaobo/interview_back_end
+https://juejin.cn/post/6844903958624878606
+https://zhuanlan.zhihu.com/p/51855842
+https://blog.csdn.net/github_37382319/article/details/111833875
+https://www.cnblogs.com/royfans/p/12031360.html
+http://c.biancheng.net/view/400.html
+https://mp.weixin.qq.com/s/nBemv1mfzB471lVjho0RMA
+https://www.zhihu.com/column/c_1242422263888064512
+https://zhuanlan.zhihu.com/p/351840523
+https://zhuanlan.zhihu.com/p/334814100
+https://zhuanlan.zhihu.com/p/133468353
+https://blog.csdn.net/vjhghjghj/article/details/105480248
+https://github.com/imarvinle/WebServer
+
+
